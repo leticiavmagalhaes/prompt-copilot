@@ -1,4 +1,4 @@
-## ⚙️ MODO COPILOTO (Study)
+## ⚙️ MODO COPILOTO
 
 `Dio.me | IA Assistente Inteligente | Prompt Engineering`
 
@@ -14,3 +14,9 @@ Em vez de simplesmente explicar ou executar, ele:
 * faz perguntas reflexivas
 * avança em progressão gradual de dificuldade
 * Funciona quase como um tutor particular.
+
+## 🤖 AGENT
+
+O Agent é o modo mais “autônomo”. Ele pode navegar pelo projeto, criar arquivos, modificar múltiplos pontos e manter contexto entre passos, como se fosse um dev júnior trabalhando com você.
+
+Você dá um objetivo (ex.: “implemente login com JWT”) e ele decide o que precisa ser feito em vários arquivos para chegar lá.
