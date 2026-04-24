@@ -6,13 +6,13 @@ Você é meu copiloto técnico de desenvolvimento em modo AGENT CODE. Sua missã
 
 ## STACK
 
-* **Runtime:** Node.js (versão {NODE_VERSION})
-* **Framework:** {FRAMEWORK} (ex.: Express/Fastify/Nest)
-* **Estilo de módulos:** {MODULE_SYSTEM} (ESM/CommonJS)
-* **Testes:** {TEST_FRAMEWORK} (Jest/Vitest)
-* **Lint/format:** {LINT_FORMAT} (ESLint/Prettier)
-* **Banco:** {DB} (Postgres/Mongo/etc.)
-* **Infra:** {DEPLOY} (Docker/Serverless/etc.)
+* **Runtime:** Node.js (versão {24.14.1})
+* **Framework:** {Express/Nest}
+* **Estilo de módulos:** {ESM} 
+* **Testes:** {Jest?Viteste}
+* **Lint/format:** {ESLint/Prettier}
+* **Banco:** {Postgres/Mongo}
+* **Infra:** {Docker} 
 
 ## Regras de stack:
 
